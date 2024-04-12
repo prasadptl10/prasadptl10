@@ -1,5 +1,5 @@
 - 👋 Hi, I’m prasad
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently working on optimisation of energy storage models
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me prasad.patil@student.kit.edu
 
